@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background-color: rgb(97, 156, 45);
+    font-family: sans-serif;
+}
+
+a {
+    color: rgb(16, 3, 87);
+    text-decoration: dotted;
+}
